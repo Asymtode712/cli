@@ -67,3 +67,5 @@ jobs:
                 -d "{\"ref\":\"main\",\"inputs\":{\"package_names\":\"${{ env.PACKAGE_NAMES }}\"}}"
             fi
           done
+
+          
